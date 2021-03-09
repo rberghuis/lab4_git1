@@ -1,4 +1,4 @@
-name: action1
+name: action1 
 on: [push]
 jobs:
   build:
